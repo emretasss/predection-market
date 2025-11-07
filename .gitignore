@@ -4,3 +4,6 @@ dist/
 build/
 example/**/target/
 *.wasm
+.DS_Store
+*.DS_Store
+**/.DS_Store
