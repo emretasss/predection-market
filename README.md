@@ -185,4 +185,3 @@ MIT License - feel free to use this for your own projects!
 Built with ❤️ using Stellar Soroban
 # Stellar-Decentralized-Prediction-Market
 # predection-market
-# predection-market
